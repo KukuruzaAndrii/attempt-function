@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "attempt.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.0.1",
+    "standard": "^14.3.4"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
